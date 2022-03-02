@@ -1,0 +1,6 @@
+Domain controllers are an integral part of running any network. A network will need to be centralized with a domain controller so authorization and permissions 
+can be set. It does creat a single point of failure in the sense that if it is compromised than the whole network goes down. Which is why DNS attacks are so 
+prevalant and effective. Within the expansion of technology and services they are becoming more sophisticated. All the reason to shore up to prevent an attack 
+from happening. The attacks can affect a business reputation as well as finances, and valuable data can be stolen. In order to mitigate these attacks users will
+need to be educated on how easy they can occur. Even if someone just mistypes a domain name an attacker could have it set up to look like the real deal. I dont
+see an end to these attacks but think user education will help to prevent them.
